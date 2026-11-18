@@ -1,0 +1,14 @@
+# Edupro Enterprises (Pvt) Ltd
+
+> Harare-based supplier of the Edupro School Management System, Finance 360, Bulk SMS Gateway, Study Room, Marketplace and ICT services for schools in Zimbabwe. Tagline: Smart Schools. Smarter Zimbabwe.
+
+- Official website: https://www.edupro.co.zw
+- Contact: sales@edupro.co.zw, 0788 111 611, +263 772 837 385
+- Address: 91 Lomangundi Road, Avondale, Harare, Zimbabwe
+
+## Key facts
+- School Management System: 11 modules (SIM-100, ADM-200, HRP-600, ATT-300, COM-400, FIN-500, LMS-200, TTS-300, RPT-800, AST-900, TRN-1000); all eleven US$3,400 once-off, excluding 15.5% VAT.
+- Termly subscription by enrolment: 0-600 US$250; 601-1,000 US$350; 1,001-2,000 US$500; 2,001-5,000 US$750.
+- Bulk SMS: US$0.029 per SMS on Econet, NetOne and Telcel.
+- Works online and offline. Supports ZIMSEC Heritage-Based Curriculum and Cambridge IGCSE/AS/A Level.
+- Edupro is not endorsed by ZIMSEC or the Ministry of Primary and Secondary Education.
