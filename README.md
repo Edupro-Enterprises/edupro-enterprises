@@ -72,6 +72,8 @@ Our finance offering inside the School Management System: set fee structures, bi
 - Fee reminders by SMS through the Bulk SMS Gateway
 - Works with the Admissions, Student Information and Communications modules
 
+[Open Edupro Finance 360](https://fees.edupro.co.zw)
+
 ---
 
 ## Pricing
@@ -140,7 +142,7 @@ Digital learning for learners from ECD to Form 6.
 - Android app with offline access to downloaded resources
 - Individual access and school licences
 
-[Open Study Room on edupro.co.zw](https://www.edupro.co.zw) · Pricing on request: sales@edupro.co.zw
+[Open Edupro Study Room](https://studyroom.edupro.co.zw) · Pricing on request: sales@edupro.co.zw
 
 ---
 
@@ -155,6 +157,8 @@ Reach every parent in minutes.
 - Integration for other systems (for example ERP and school software)
 
 Example: 2,000 SMS = $58.00.
+
+[Open Edupro Bulk SMS](https://sms.edupro.co.zw)
 
 ---
 
