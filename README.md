@@ -228,14 +228,14 @@ $0.029 per SMS on Econet, NetOne and Telcel.
 Yes. See the [curriculum section](#zimsec-heritage-based-curriculum).
 
 **Where is Edupro based?**
-91 Lomangundi Road, Avondale, Harare, Zimbabwe.
+91 Lomagundi Road, Avondale, Harare, Zimbabwe.
 
 ---
 
 ## Contact
 
 **Edupro Enterprises (Pvt) Ltd**
-91 Lomangundi Road, Avondale, Harare, Zimbabwe
+91 Lomagundi Road, Avondale, Harare, Zimbabwe
 Tel: 0788 111 611 · Cell/WhatsApp: +263 772 837 385
 Email: [sales@edupro.co.zw](mailto:sales@edupro.co.zw)
 Website: [www.edupro.co.zw](https://www.edupro.co.zw)
