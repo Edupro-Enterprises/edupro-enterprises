@@ -22,6 +22,7 @@ Edupro Enterprises (Pvt) Ltd is a Harare-based technology company that helps Zim
 11. [How it works](#how-it-works)
 12. [FAQ](#frequently-asked-questions)
 13. [Contact](#contact)
+14. [News and updates](NEWS.md)
 
 ---
 
