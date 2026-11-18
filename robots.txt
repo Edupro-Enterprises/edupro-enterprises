@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://edupro-enterprises.github.io/edupro-enterprises/sitemap.xml
